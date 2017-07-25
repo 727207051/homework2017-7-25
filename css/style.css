@@ -1,0 +1,747 @@
+body,h1,h2,h3,h4,div,ul,ol,li,dl,dt,dd,form,a,img,span,em,i,strong,b{
+	margin: 0;padding: 0;
+	}
+li{
+	 list-style: none;
+	 }
+img{
+	border: 0;
+	vertical-align:top;
+	}
+body{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color:#000;
+	background:#75a6ff;
+	}
+a{
+	text-decoration: none;
+	color:#000;
+	}
+a:hover{
+	color:#4f70fe;
+	}
+.clearfix:before,.clearfix:after{
+	content: " ";
+	display: table;
+	}
+.clearfix:after{
+	clear: both;
+	}
+
+
+#head{
+	background: url(../images/head_bg.jpg) no-repeat center top;
+	height: 553px;
+}
+.layer{
+	width: 990px;
+	margin: 0 auto;
+	
+}
+
+#running{
+	margin-bottom: 53px;
+}
+#running h2{
+	background: url(../images/running_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-top: 18px;
+	margin-left: 35px;
+}
+
+#running dl{
+	background: url(../images/running_bg.jpg) no-repeat center top;
+	margin: 6px 0 0 -82px;
+}
+#running dt{
+	color: white;
+	margin: 25px 0 0 410px;	
+	line-height: 28px;
+	padding-top: 5px;;
+}
+
+#running .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 9px 4px 0;
+		background: #FFFFFF;
+		color: #000000;
+}
+.running_r{
+	padding-left:388px;
+}
+#running img{
+	float: left;
+}
+#running p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#running span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#running button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#running .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 9px 10px 0;
+		background: #FFFFFF;
+}
+
+#running .dd_small img{
+		margin-top: 33px;
+}
+
+#running .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#running .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#running .title{
+	margin-top: 41px;
+	background: url(../images/running_iocn.png);
+	height: 47px;
+}
+
+#running .title a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	/*color: white;*/
+	height: 47px;
+	margin: 8px 0 0 0;
+	
+}
+#running .title .MT144 {
+	margin-left:144px;
+}
+#running .title  .MT240{
+	margin-left:240px;
+}
+#running .title  .MT256{
+	margin-left:256px;
+}
+#running .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#running .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#running .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#running .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#running .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#running .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+
+#running .title2{
+	background: url(../images/running_iocn2.png);
+}
+#running ._1{
+	color: white;
+}
+#running ._2{
+	color: #4f70fe;
+}
+#running .title3{
+	background: url(../images/running_iocn3.png);
+}
+
+/*垂钓*/
+
+
+#fishing h2{
+	background: url(../images/fishing_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-left: 35px;
+}
+
+#fishing dl{
+	background: url(../images/fishing_bg.jpg) no-repeat;
+	margin: 6px 0 0 0;
+	padding-right:90px;
+	width: 976px;
+}
+#fishing dt{
+	color: white;
+	margin: 25px 0 0 280px;
+	line-height: 28px;
+	padding-top: 5px;
+	
+}
+#fishing .dt2{
+	margin: 0 0 0 254px;
+}
+
+
+#fishing .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 0px 4px 9px;
+		background: #FFFFFF;
+}
+.fishing_r{
+	width: 688px;
+}
+#fishing img{
+	float: left;
+}
+#fishing p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#fishing span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#fishing button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#fishing .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 0 10px 9px;
+		background: #FFFFFF;
+}
+
+#fishing .dd_small img{
+		margin-top: 33px;
+}
+
+#fishing .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#fishing .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#fishing .title{
+	margin-top: 41px;
+	background: url(../images/fishing_icon.png);
+	height: 47px;
+}
+
+#fishing .title a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	height: 47px;
+	margin: 7px 0 0 0;
+	
+}
+#fishing .title .MT120{	
+	margin-left:120px;
+}
+#fishing .title .MT150{
+	margin-left:150px;
+}
+#fishing .title .MT155{
+	margin-left:155px;
+}
+#fishing .title .MT151{
+	margin-left:151px;
+}
+#fishing .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#fishing .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#fishing .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#fishing .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#fishing .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#fishing .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+#fishing ._1{
+	color: white;
+}
+#fishing ._2{
+	color: #4f70fe;
+}
+#fishing .title2{
+	background: url(../images/fishing_icon2.gif);
+}
+#fishing .title3{
+	background: url(../images/fishing_icon3.gif);
+}
+#fishing .title4{
+	background: url(../images/fishing_icon4.png);
+}
+
+#outdoor{
+	margin-bottom: 53px;
+}
+#outdoor h2{
+	background: url(../images/outdoor_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-top: 18px;
+	margin-left: 35px;
+}
+
+#outdoor dl{
+	background: url(../images/outdoor_bg.jpg) no-repeat center top;
+	margin: 6px 0 0 -82px;
+}
+#outdoor dt{
+	color: white;
+	margin: 25px 0 0 410px;	
+	line-height: 28px;
+	padding-top: 5px;;
+}
+
+#outdoor .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 9px 4px 0;
+		background: #FFFFFF;
+		color: #000000;
+}
+.outdoor_r{
+	padding-left:388px;
+}
+#outdoor img{
+	float: left;
+}
+#outdoor p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#outdoor span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#outdoor button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#outdoor .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 9px 10px 0;
+		background: #FFFFFF;
+}
+
+#outdoor .dd_small img{
+		margin-top: 33px;
+}
+
+#outdoor .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#outdoor .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#outdoor .title{
+	margin-top: 41px;
+	background: url(../images/outdoor_icon.png);
+	height: 47px;
+}
+
+#outdoor .title a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	/*color: white;*/
+	height: 47px;
+	margin: 6px 0 0 0;
+	
+}
+#outdoor .title .MT131 {
+	margin-left:131px;
+}
+#outdoor .title .MT232{
+	margin-left:232px;
+}
+#outdoor .title .MT220{
+	margin-left:220px;
+}
+#outdoor .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#outdoor .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#outdoor .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#outdoor .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#outdoor .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#outdoor .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+
+#outdoor .title2{
+	background: url(../images/outdoor_icon2.png);
+}
+#outdoor ._1{
+	color: white;
+}
+#outdoor ._2{
+	color: #4f70fe;
+}
+#outdoor .title3{
+	background: url(../images/outdoor_icon3.png);
+}
+
+
+#riding h2{
+	background: url(../images/riding_h2.gif) no-repeat center top;
+	height: 84px;
+	margin-left: 35px;
+}
+
+#riding dl{
+	background: url(../images/riding_bg.jpg) no-repeat;
+	margin: 6px 0 0 0;
+	padding-right:90px;
+	width: 976px;
+}
+#riding dt{
+	color: white;
+	margin: 25px 0 0 280px;
+	line-height: 28px;
+	padding-top: 5px;
+	
+}
+#riding .dt2{
+	margin: 0 0 0 254px;
+}
+
+
+#riding .dd_big{
+		float: left;
+		height: 160px;
+		width: 333px;	
+		margin: 3px 0px 4px 9px;
+		background: #FFFFFF;
+}
+.riding_r{
+	width: 688px;
+}
+#riding img{
+	float: left;
+}
+#riding p{
+	float: left;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 67px 0 0 5px;
+}
+#riding span{
+	float: left;
+	font-size: 16px;
+	margin: 0 0 0 5px;
+	line-height: 32px;
+}
+#riding button{
+	float: left;
+	color: white;
+	background: #000000;
+	border-radius: 3px;
+	border: 0;
+	cursor:pointer;
+}
+
+#riding .dd_small{
+		float: left;
+		height: 206px;
+		width: 162px;	
+		margin: 3px 0 10px 9px;
+		background: #FFFFFF;
+}
+
+#riding .dd_small img{
+		margin-top: 33px;
+}
+
+#riding .dd_small p{
+	width: 162px;
+	margin: 35px auto 5px;
+	text-align: center;
+
+}
+#riding .dd_small span{
+	width: 162px;
+	text-align: center;
+	line-height: 14px;;
+
+}
+#riding .title{
+	margin-top: 41px;
+	background: url(../images/riding_icon.gif);
+	height: 47px;
+}
+
+#riding .title a{
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	height: 47px;
+	margin: 6px 0 0 0;
+	
+}
+#riding .title .MT142{	
+	margin-left:142px;
+}
+#riding .title .MT225{
+	margin-left:225px;
+}
+#riding .title .MT245{
+	margin-left:245px;
+}
+#riding .shoes{
+	margin-top:20px;
+	width: 1010px;
+}
+#riding .shoes li{
+	float: left;
+	width: 189px;
+	height: 260px;
+	background: white;
+	margin-right:11px;
+	margin-top: 13px;
+}
+#riding .shoes p{
+	margin: 8px 0 4px 0;
+	width: 189px;
+	text-align: center;
+}
+#riding .shoes span{
+	width: 107px;
+	font-size: 16px;
+	color: #e93030;
+	font-weight: 600;
+	padding-left: 5px;
+	line-height: 16px;
+}
+#riding .shoes i{
+	float: left;
+	font-size: 12px;
+	font-style: normal;
+	color: #bbbbbb;
+	width: 106px;
+	height: 12px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-decoration: line-through;
+	
+}
+#riding .shoes button{
+	float: left;
+	height: 35px;
+	width: 51px;
+	font-size: 14px;
+	line-height: 15px;
+	margin-left:17px;
+	margin-top: -15px;
+	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
+	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
+	padding-left: 6px;
+	text-align: left;
+}
+#riding ._1{
+	color: white;
+}
+#riding ._2{
+	color: #4f70fe;
+}
+#riding .title2{
+	background: url(../images/riding_icon2.gif);
+}
+#riding .title3{
+	background: url(../images/riding_icon3.png);
+}
+
+
+#open{
+	margin: 0 auto;
+	width: 990px;
+	height: 100px;
+	background: url(../images/open_bg.jpg);
+	margin-top:65px;
+	margin-bottom: 375px;
+}
+#open a{
+	display: block;
+	width: 990px;
+	height: 100px;
+}
+#role{
+	width: 138px;
+	height: 628px;
+	background: url(../images/role_bg.jpg);
+	position: fixed;
+	left: 50%;
+	margin-left:505px;
+	top:50px;
+}

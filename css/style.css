@@ -568,13 +568,13 @@ a:hover{
 }
 #riding dt{
 	color: white;
-	margin: 25px 0 0 280px;
+	margin: 25px 0 0 523px;
 	line-height: 28px;
 	padding-top: 5px;
 	
 }
 #riding .dt2{
-	margin: 0 0 0 254px;
+	margin: 0 0 0 110px;
 }
 
 
@@ -736,6 +736,10 @@ a:hover{
 	width: 990px;
 	height: 100px;
 }
+
+
+
+
 #role{
 	width: 138px;
 	height: 628px;
@@ -744,4 +748,45 @@ a:hover{
 	left: 50%;
 	margin-left:505px;
 	top:50px;
+}
+
+#role .running{
+	margin-top: 17px;;
+}
+#role dt{
+	font-size: 18px;
+	line-height: 38px;
+	text-align: center;
+}
+#role dt a{
+	color:#10159f;
+}
+#role dd{
+	font-size: 16px;
+	line-height: 28px;
+	text-align: center;
+	color:#0a0c48;
+}
+#role i{
+	display: block;
+	border: 0.5px dashed #6e6e6e;
+	border-collapse:collapse;
+	width: 83px;
+	margin: 0 auto;
+}
+#role span{
+	display: block;
+	font-size: 18px;
+	text-align: center;
+	line-height: 38px;
+}
+#role span a{
+	color: #e93030;
+}
+#role .turntop a{
+	display: block;
+	color: white;
+	font-size: 16px;
+	text-align: center;
+	line-height: 38px;
 }

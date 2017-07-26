@@ -72,7 +72,7 @@ a:hover{
 .running_r{
 	padding-left:388px;
 }
-#running img{
+#running a{
 	float: left;
 }
 #running p{
@@ -80,6 +80,11 @@ a:hover{
 	font-size: 14px;
 	line-height: 17px;
 	margin: 67px 0 0 5px;
+}
+#running p a{
+	float:none;
+	display: block;
+	margin: 0 auto;
 }
 #running span{
 	float: left;
@@ -96,6 +101,9 @@ a:hover{
 	cursor:pointer;
 }
 
+#running button a{
+	color: white;
+	}
 #running .dd_small{
 		float: left;
 		height: 206px;
@@ -190,7 +198,6 @@ a:hover{
 	margin-left:17px;
 	margin-top: -15px;
 	background: #e93030 url(../images/running_shoes_buy.png) no-repeat 39px 9px;
-	/*background-image: url(../images/running_shoes_buy.png) no-repeat 39px 9px;*/
 	padding-left: 6px;
 	text-align: left;
 }

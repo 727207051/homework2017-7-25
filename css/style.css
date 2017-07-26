@@ -130,7 +130,7 @@ a:hover{
 }
 #running .title{
 	margin-top: 41px;
-	background: url(../images/running_iocn.png);
+	/*background: url(../images/running_iocn.png);*/
 	height: 47px;
 }
 
